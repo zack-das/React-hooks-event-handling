@@ -1,5 +1,4 @@
 // Code EyesOnMe Component Here
-// components/EyesOnMe.js
 import React from 'react';
 
 function EyesOnMe() {
